@@ -38,6 +38,7 @@
         android:id="@+id/button"
         android:layout_width="410dp"
         android:layout_height="wrap_content"
+        android:onClick="speechConvert"
         android:text="@string/convert"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
