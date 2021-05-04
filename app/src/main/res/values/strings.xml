@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">speachRec</string>
+    <string name="_100">100</string>
+    <string name="convert">Convert</string>
+</resources>
